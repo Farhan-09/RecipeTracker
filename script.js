@@ -8,7 +8,7 @@ const recipe1 = {
   cookingTime: 78,
   totalIngredients: null,
   difficultyLevel: '',
-  ratings: [4, 5, 4,4 ,4,3,3,4,4],
+  ratings: [4, 5, 4, 4 ,4, 3 , 3 , 4 ,4],
   averageRating: null,
 };
 
